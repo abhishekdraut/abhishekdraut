@@ -64,16 +64,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🔵:Badge:
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekdraut">
-
----
-### 🟢: Activity :
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekdraut&theme=vue" >
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekdraut&theme=dark">
 
 ---
 ### 🟡: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdraut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdraut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
