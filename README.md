@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="100px"/>
+  <img src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abhishek-raut-923865147/">
@@ -15,14 +15,14 @@
     <img src="https://komarev.com/ghpvc/?username=abhishekdraut&style=flat-square&color=blue" alt=""/>
   </div>
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
   </div>
 
  </div>
 <div>
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1>
 </div>
 
