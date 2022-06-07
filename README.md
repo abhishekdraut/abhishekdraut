@@ -11,10 +11,11 @@
   <a href="https://www.linkedin.com/in/abhishek-raut-923865147/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://abhishekrautportfolio.netlify.app/">
-    Portfolio
-  </a>
+ 
   <div>
+     <a href="https://abhishekrautportfolio.netlify.app/">
+    Portfolio
+    </a>
     <img src="https://komarev.com/ghpvc/?username=abhishekdraut&style=flat-square&color=blue" alt=""/>
   </div>
   <div id="header" align="center">
