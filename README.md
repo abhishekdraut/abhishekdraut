@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abhishek-raut-923865147/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/abhishekdraut121">
+  <a href="https://leetcode.com/abhiraut121/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Youtube Badge"/>
   </a>
   <a href="https://www.hackerrank.com/abhishekdraut121">
