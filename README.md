@@ -21,10 +21,6 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=abhishekdraut&style=flat-square&color=blue" alt=""/>
   </div>
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="400"/>
-  </div>
-
  </div>
 <div>
 <h1 align="center">
