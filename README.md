@@ -38,11 +38,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Developer Intern and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Developer contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring new technologies.
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles and try to learn new tech things.
+- :zap: In my free time, I read tech articles and trying to learn new tech things.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/abhishek-raut-923865147/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="70" ></a>
 
